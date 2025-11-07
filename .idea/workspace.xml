@@ -4,26 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c770cd4e-2e0b-46ce-ad87-3f189bed90a3" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structures.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetCode/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetCode/leetCode1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetCode/leetCode1207.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetCode/leetCode20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetCode/leetCode217.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetCode/leetCode242.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetCode/leetCode3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetCode/leetCode383.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetCode/leetCode49.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/ExStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/MyArrayStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/MyDoublyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/MyLinkedList.java" afterDir="false" />
+    <list default="true" id="c770cd4e-2e0b-46ce-ad87-3f189bed90a3" name="更改" comment="1">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetCode/The01KnapsackProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetCode/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetCode/exercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetCode/leetCode102.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetCode/leetCode104.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetCode/leetCode118.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetCode/leetCode24ver2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetCode/leetCode322.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetCode/leetCode416.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetCode/leetCode450.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetCode/leetCode450exercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetCode/leetCode62ver1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetCode/leetCode62ver2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetCode/leetCode700.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetCode/leetCode701.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetCode/leetCode703.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetCode/leetCode70ver1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetCode/leetCode70ver2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetCode/leetCode70ver3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetCode/leetCode933.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetCode/leetCode96ver1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetCode/leetCode96ver2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetCode/leetCode98ver1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetCode/leetCode98ver2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetCode/leetCode98ver3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetCode/leetcode110.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetCode/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetCode/ListNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,12 +44,28 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;celavin&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/celavin/dataStructure.git&quot;,
+    &quot;accountId&quot;: &quot;8fc9ad57-0d0d-464c-8b35-2ec263c20a15&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -52,10 +79,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/27454/IdeaProjects/Data Structures & Algorithms/Structures",
-    "应用程序.leetCode20.executor": "Run"
+    "应用程序.leetCode20.executor": "Run",
+    "应用程序.leetCode209.executor": "Run",
+    "应用程序.leetCode24ver1.executor": "Run",
+    "应用程序.leetCode567.executor": "Run",
+    "应用程序.leetCode567ver2.executor": "Run",
+    "应用程序.leetCode567ver3.executor": "Run"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
@@ -67,6 +100,64 @@
       <option name="presentableId" value="Default" />
       <updated>1761889986987</updated>
     </task>
+    <task id="LOCAL-00001" summary="数据结构以及一些题目">
+      <option name="closed" value="true" />
+      <created>1762143057151</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1762143057151</updated>
+    </task>
+    <task id="LOCAL-00002" summary="困难,滑动窗口,35min">
+      <option name="closed" value="true" />
+      <created>1762323878727</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1762323878727</updated>
+    </task>
+    <task id="LOCAL-00003" summary="一些题目">
+      <option name="closed" value="true" />
+      <created>1762323892800</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1762323892800</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ver1 没有用到滑动窗口,但解决&#10;ver2 用到滑动窗口,但是可变大小的模板,超时&#10;ver3 固定大小模板">
+      <option name="closed" value="true" />
+      <created>1762331790727</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1762331790727</updated>
+    </task>
+    <task id="LOCAL-00005" summary="修改尾句更简洁">
+      <option name="closed" value="true" />
+      <created>1762331814619</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1762331814619</updated>
+    </task>
+    <task id="LOCAL-00006" summary="1">
+      <option name="closed" value="true" />
+      <created>1762344933096</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1762344933096</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="数据结构以及一些题目" />
+    <MESSAGE value="困难,滑动窗口,35min" />
+    <MESSAGE value="一些题目" />
+    <MESSAGE value="ver1 没有用到滑动窗口,但解决&#10;ver2 用到滑动窗口,但是可变大小的模板,超时&#10;ver3 固定大小模板" />
+    <MESSAGE value="修改尾句更简洁" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
 </project>
