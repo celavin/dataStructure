@@ -1,6 +1,4 @@
-package test;
-
-import java.util.Arrays;
+package Structures.test;
 
 public class ExStack {
     public static void main(String[] args) {

@@ -1,0 +1,41 @@
+why
+如果与基准值相同的元素太多,会极大降低排序效率
+所以使用三路快排(3way quicksort)
+也就是分成三组
+小于pivot
+等于pivot
+大于pivot
+
+五个指针
+low lt high gt i
+low指向第一个,也是基准
+high指向最后一个
+lt (less than): 指向“小于”区域的下一个位置。[low...lt-1] 区间的元素都小于 pivot。
+gt (greater than): 指向“大于”区域的前一个位置。[gt+1...high] 区间的元素都大于 pivot。
+i: 当前正在遍历的元素指针。[lt...i-1] 区间的元素都等于 pivot。
+
+
+维护四个区域和三个指针
+小于pivot的区域[low,lt-1]
+等于pivot的区域[lt,i-1]
+未处理的区域[i,gt]
+大于pivot的区域[gt,high]
+
+[8,  3,  1,  7,  0,  10,  8,  2,  8,  5]
+low i                                 high
+lt                                    gt
+
+i开始扫描数组,分三种情况
+1.如果nums[i]<pivot:
+交换lt和i的值,lt和i分别像右移动一位
+注意:现在low已经不指向pivot了,pivot已经向右移动了
+
+2.如果nums[i]>pivot
+交换gt和i的值
+gt向左移动一位
+注意,这时候i不能右移,因为交换过来的原gt还没检测
+
+3.如果nums[i]==pivot
+说明它在应有的位置
+直接i+1
+

@@ -1,4 +1,4 @@
-package test;
+package Structures.test;
 
 public class MyArrayStack {
     int[] stack ;

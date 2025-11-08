@@ -1,0 +1,18 @@
+1.使用条件:待查找的数组必须有序
+
+2.边界问题:循环不变量 找到查找过程中始终为真的量
+2.1闭区间查找[left,right],如果target存在,一定在区间内
+when left=right still have one number no be searched that is left(right)
+when left>right interval is empty,over
+because interval is close,so middle have been searched,next search do not need him
+so j=m-1 or i =m+1
+other,the end require is i<=j,when i=j,look up
+2.2 open interval [left,right) if target exist,may be edge
+so right must be nums.length(not -1) to ensure every element be searched
+the end require is i<j,because when i=j,interval is empty
+and next is important
+when target<middle, right need move left
+j=m,why not m-1?because interval is open,if m-1,it will not be searched
+other is the same
+
+

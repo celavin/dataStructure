@@ -1,4 +1,4 @@
-package test;
+package Structures.test;
 
 public class MyLinkedList<e> {
     Node head ;
